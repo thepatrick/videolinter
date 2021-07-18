@@ -289,3 +289,9 @@ Passed through `jq` for pretty printing.
   }
 }
 ```
+
+## For future me
+
+* [pymediainfo](https://pymediainfo.readthedocs.io/en/stable/pymediainfo.html#module-pymediainfo) API docs
+* [MoviePy](https://zulko.github.io/moviepy/index.html)
+* [MediaInfo](https://mediaarea.net/en/MediaInfo) (that's what pymediainfo uses)
